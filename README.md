@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uk23b
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning machine learning algorithms
+- 🌱 I’m currently working on machine learning algorithms
 - 💞️ I’m looking to collaborate on a conversion program related to seismic phase velocities to shear wave velocities by using the algorithm of Saito, 1988.
 - 📫 How to reach me uk23b@mail.missouri.edu
 
